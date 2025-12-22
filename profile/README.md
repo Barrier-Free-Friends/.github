@@ -53,7 +53,13 @@
 
 <br><br><br>
 
-## 시연 영상
+## 프로젝트 MSA 서비스 구성
+- [제보 서비스](https://github.com/Barrier-Free-Friends/report-service)
+- [맵 서비스](https://github.com/Barrier-Free-Friends/map-service)
+- [AI 사진 검증 서비스](https://github.com/Barrier-Free-Friends/image-ai-service)
+- [포인트 서비스](https://github.com/Barrier-Free-Friends/point-service)
+- [컬렉션 서비스](https://github.com/Barrier-Free-Friends/spot-service)
+- [유저 서비스](https://github.com/Barrier-Free-Friends/user-service)
 
 
 <br><br><br>
