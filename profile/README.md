@@ -91,4 +91,5 @@ https://github.com/user-attachments/assets/984fdda8-e41b-45da-ad80-54c213c4d922
 
 
 ## Appendix
+- [프로젝트 소개 Brochure](https://www.notion.so/teamsparta/BF-Barrier-Free-Friends-2d12dc3ef514804abd94d0e71e4b283c?source=copy_link)
 - [발표 자료]()
