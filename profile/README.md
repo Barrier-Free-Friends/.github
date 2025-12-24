@@ -87,8 +87,7 @@ https://github.com/user-attachments/assets/984fdda8-e41b-45da-ad80-54c213c4d922
 <br><br><br>
 
 ## ERD
-<img width="1298" height="710" alt="image" src="https://github.com/user-attachments/assets/52d3e682-f50e-4967-9f01-79918a6ab0ea" />
-
+<img width="1370" height="692" alt="image" src="https://github.com/user-attachments/assets/29ca4275-7518-488a-9ce7-ef2db2c4b462" />
 
 ## Appendix
 - [프로젝트 소개 Brochure](https://www.notion.so/teamsparta/BF-Barrier-Free-Friends-2d12dc3ef514804abd94d0e71e4b283c?source=copy_link)
